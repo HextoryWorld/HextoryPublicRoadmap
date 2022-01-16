@@ -1,6 +1,6 @@
 # Hextory public roadmap
 
-:sparkle: View the [official Hextory public roadmap](https://github.com/users/HextoryWorld/projects/2/views/1)
+:sparkle: View the [official Hextory public roadmap](https://github.com/users/HextoryWorld/projects/2/views/6)
 
 The Hextory roadmap is where you can learn about what features i am working on, what stage they're in, and when i expect to bring them to you. Have any questions or comments about items on the roadmap? Share your feedback via [GitHub feedback discussions](https://github.com/HextoryWorld/HextoryPublicRoadmap/discussions).
 
